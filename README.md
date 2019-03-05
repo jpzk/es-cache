@@ -9,7 +9,7 @@ A simple in-memory cache on ecmascript 6 and typescript.
 
 ```javascript
 var Cache = require('es-cache');
-var cache = new Cache();
+var cache = new Cache.Cache();
 
 // now just use the cache
 
